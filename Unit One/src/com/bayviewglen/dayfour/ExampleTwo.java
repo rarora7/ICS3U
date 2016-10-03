@@ -6,7 +6,6 @@ public class ExampleTwo {
 		int age1 = 16;
 		int age2 = 17;
 		int age3 = 16;
-		
 
 		int numberOfStudents = 3;
 		double averageAge = (age1 + age2 + age3)/(double)numberOfStudents;	// int/double
