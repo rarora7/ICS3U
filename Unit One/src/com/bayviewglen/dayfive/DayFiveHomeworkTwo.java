@@ -6,9 +6,9 @@ public class DayFiveHomeworkTwo {
 
 	public static void main(String[] args) {
 	
-Scanner keyboard = new Scanner(System.in);
+		Scanner keyboard = new Scanner(System.in);
 		
-		System.out.print(" ");
+		System.out.print(" Enter a numer ");
 		int maxScore = keyboard.nextInt();
 		
 		System.out.print(" " + maxScore + ": ");
